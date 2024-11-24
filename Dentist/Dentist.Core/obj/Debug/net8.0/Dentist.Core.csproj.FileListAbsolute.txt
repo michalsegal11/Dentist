@@ -1,0 +1,12 @@
+T:\Group B\NetCore\MICHAL SEGAL\Dentist\Dentist.Core\obj\Debug\net8.0\Dentist.Core.GeneratedMSBuildEditorConfig.editorconfig
+T:\Group B\NetCore\MICHAL SEGAL\Dentist\Dentist.Core\obj\Debug\net8.0\Dentist.Core.AssemblyInfoInputs.cache
+T:\Group B\NetCore\MICHAL SEGAL\Dentist\Dentist.Core\obj\Debug\net8.0\Dentist.Core.AssemblyInfo.cs
+T:\Group B\NetCore\MICHAL SEGAL\Dentist\Dentist.Core\obj\Debug\net8.0\Dentist.Core.csproj.CoreCompileInputs.cache
+T:\Group B\NetCore\MICHAL SEGAL\Dentist\Dentist.Core\obj\Debug\net8.0\Dentist.Core.sourcelink.json
+T:\Group B\NetCore\MICHAL SEGAL\Dentist\Dentist.Core\bin\Debug\net8.0\Dentist.Core.deps.json
+T:\Group B\NetCore\MICHAL SEGAL\Dentist\Dentist.Core\bin\Debug\net8.0\Dentist.Core.dll
+T:\Group B\NetCore\MICHAL SEGAL\Dentist\Dentist.Core\bin\Debug\net8.0\Dentist.Core.pdb
+T:\Group B\NetCore\MICHAL SEGAL\Dentist\Dentist.Core\obj\Debug\net8.0\Dentist.Core.dll
+T:\Group B\NetCore\MICHAL SEGAL\Dentist\Dentist.Core\obj\Debug\net8.0\refint\Dentist.Core.dll
+T:\Group B\NetCore\MICHAL SEGAL\Dentist\Dentist.Core\obj\Debug\net8.0\Dentist.Core.pdb
+T:\Group B\NetCore\MICHAL SEGAL\Dentist\Dentist.Core\obj\Debug\net8.0\ref\Dentist.Core.dll
